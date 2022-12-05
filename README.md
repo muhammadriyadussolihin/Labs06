@@ -23,7 +23,7 @@ hapus(nama)
 ubah(nama)
 ```
 8. SELESAI
-```
+```sh
 dataMahasiswa = {}
 
 print("=" * 65)
@@ -101,7 +101,7 @@ while True:
         exit()
     else:
         print("PILIHAN MENU TIDAK ADA!")
-```sh
+```
 
-## **FLOWCHART**
+**FLOWCHART**
 ![img](gambar/flowchart.png)
